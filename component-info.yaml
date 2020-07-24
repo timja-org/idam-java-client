@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: idam-java-client
+  description: An OpenFeign based Java client for Idam's APIs
+spec:
+  type: library
+  lifecycle: GA
+  owner: IDAM
